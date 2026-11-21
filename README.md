@@ -2,7 +2,7 @@
 
 **Course:** CSC-114 Introduction to ICT, Bahria University Islamabad (Fall 2026)
 **Instructor:** Ms. Nadia Kalsoom
-**Group:** [GROUP NAME]
+**Group:** FixStack
 
 ## Purpose
 A multi-page website for TechFix Islamabad, a computer repair and IT support shop.
@@ -25,9 +25,9 @@ HTML5, CSS3, JavaScript, Git and GitHub, GitHub Pages, LaTeX (Overleaf) for the 
 ## Team
 | Member | ID | Role |
 |---|---|---|
-| [Member 1] | [ID] | Project manager, report writer |
-| [Member 2] | [ID] | Designer, front-end developer |
-| [Member 3] | [ID] | JavaScript developer, tester |
+| Manzoor Ahmed | 01-134262-153 | Project manager, report writer |
+| Zain-ul-Abideen | 01-134262-113 | Designer, front-end developer |
+| Hamza Jamal | 01-134262-123 | JavaScript developer, tester |
 
 ## How to run
 Download or clone the repository and open `index.html` in a browser. No server or installation is needed.
